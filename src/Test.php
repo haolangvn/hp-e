@@ -10,7 +10,7 @@ namespace hp\ecommerce;
 class Test {
 
     public static function test() {
-        echo '2222222222222222';
+        echo '<pre>Test successfull</pre>';
     }
 
 }

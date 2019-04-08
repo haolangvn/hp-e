@@ -10,21 +10,16 @@
 		}
 	],
 	"require-dev" : {
-	    "luyadev/luya-testsuite" : "~1.0.0"
+		"luyadev/luya-testsuite" : "~1.0.0"
 	},
 	"autoload" : {
 		"psr-4" : {
 			"hp\\demo\\" : "src/"
 		}
 	},
-	"autoload-dev" : {
-       "psr-4" : {
-           "hp\\demo\\tests\\" : "tests/"
-       }
-    },
 	"extra": {
         "branch-alias": {
-            "dev-master": "1.0-dev"
+            "dev-master": "1.0.x-dev"
         }
     }
 }

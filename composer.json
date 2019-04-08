@@ -9,6 +9,10 @@
 			"name": "Hao"
 		}
 	],
+	"minimum-stability": "stable",
+    "require": {
+        "luyadev/luya-core": "^1.0"
+    },
 	"require-dev" : {
 	    "luyadev/luya-testsuite" : "~1.0.0"
 	},

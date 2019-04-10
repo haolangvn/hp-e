@@ -13,7 +13,7 @@
 Install the extension through composer:
 
 ```sh
-composer require hlv/demo
+composer require --prefer-dist hlv/demo "*"
 ```
 
 Run the import command afterwards:
